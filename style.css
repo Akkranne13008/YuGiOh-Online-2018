@@ -1,0 +1,62 @@
+h1{
+	color: orange;
+}
+p{
+	color: white;
+	font-size: 30px;
+}
+.news{
+	margin-top: 35px;
+}
+
+
+.news1 {
+            position: absolute;
+            margin-top: 15px;
+            margin-left: 450px;
+
+        }
+.news2 {
+      position: absolute;
+            margin-top: 15px;
+            margin-left: 850px;
+}
+.news3 {
+      position: absolute;
+            margin-top: 15px;
+            margin-left: 1250px;
+}
+
+
+
+.yugi {
+            position: absolute;
+            margin-top: 500px;
+            margin-left: 450px;
+
+        }
+.kaiba {
+      position: absolute;
+            margin-top: 500px;
+            margin-left: 850px;
+}
+.joy {
+      position: absolute;
+            margin-top: 500px;
+            margin-left: 1250px;
+}
+
+
+.decks {
+      position: absolute;
+            margin-top: 350px;
+            margin-left: 750px;
+}
+img{
+margin-left : 150px /*tes images auront une marge de 5px a gauche*/
+}
+body {
+color:black;
+background-color:white;
+background-image:url(img/background.jpg);
+}
